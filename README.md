@@ -30,7 +30,7 @@ Principais indicadores:
 - Ranking dos 5 maiores gastos
 
 - ## Exemplo do Dashboard
-![Dashboard Financeiro](dashboard.png)
+![Dashboard Financeiro](dashboard.png.png)
 
 
 
